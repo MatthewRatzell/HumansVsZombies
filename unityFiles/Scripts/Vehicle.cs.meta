@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e904de6fc4c22874388b3c4b789cc43a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - material1: {fileID: 2100000, guid: 7e24bcb77c1d6244188c1053b66c2e53, type: 2}
+  - material2: {fileID: 2100000, guid: ef6fbae0e537f0546a67eda97f099ef1, type: 2}
+  - material3: {fileID: 2100000, guid: 25105b2d3a232224fa4803d4a0a88e9a, type: 2}
+  - material4: {fileID: 2100000, guid: 54283d9388ffb0f46b5c8da20672a044, type: 2}
+  - material5: {fileID: 2100000, guid: 0955680fa2b76e8488e8ce379eb4a330, type: 2}
+  - zombiesFuturePosition: {fileID: 3908504439471736209, guid: efde40e534d61ab40a34ad0fd3e3bffc,
+      type: 3}
+  - humanFuturePosition: {fileID: 2837454735252836606, guid: fd1a8fad618047846815ad25fc81c647,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
